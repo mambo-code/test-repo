@@ -2,19 +2,9 @@
 	"Article": {
 		"id": "string",
 		"title": "string",
-		"content_type": "string",
-		"content_detail_id": "string",
-		"content_detail_url": "string",
-		"content_detail_body": "string",
-		"content_detail_editor": "string",
-		"content_detail_image": "string",
-		"content_detail_author": "string",
-		"content_detail_embed_url": "string",
-		"content_detail_creator_user_id": "string",
-		"content_detail_creator_user_name": "string",
+		"body": "string",
+		"image": "string",
 		"is_headline": "boolean",
-		"label": "string",
-		"sticky_position": "string",
-		"thread_id": "string"
+		"label": "string"
 	}
 }
