@@ -1,6 +1,6 @@
 {
 	"Article": {
-		"id": "string",
+		"id": "int",
 		"title": "string",
 		"body": "string",
 		"image": "string",
