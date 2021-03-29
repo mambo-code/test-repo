@@ -12,7 +12,7 @@
 		"content_detail_embed_url": "string",
 		"content_detail_creator_user_id": "string",
 		"content_detail_creator_user_name": "string",
-		"is_headline": "int",
+		"is_headline": "boolean",
 		"label": "string",
 		"sticky_position": "string",
 		"thread_id": "string"
