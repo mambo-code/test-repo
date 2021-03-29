@@ -1,6 +1,6 @@
 {
 	"Article": {
-		"id": "string"
+		"id": "string",
 		"title": "string",
 		"content_type": "string",
 		"content_detail_id": "string",
